@@ -15,7 +15,7 @@ public class Practica1_Buscaminas {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        menuprincipal p = new menuprincipal();
     }
     
 }
